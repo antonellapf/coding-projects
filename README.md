@@ -1,7 +1,7 @@
 # coding-projects
 
-Welcome to my Python projects, where innovation and creativity come to life 
-through lines of code! In this repository, a collection of some projects using Python 
+Welcome to my Python and SQL projects, where innovation and creativity come to life 
+through lines of code! In this repository, a collection of some projects using different Programming Languages
 crafted with passion.
 
 Table of Contents
